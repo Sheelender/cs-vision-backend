@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.csv</groupId>
 	<artifactId>com-sci-vision</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>com-sci-vision</name>
 	<description>Computer Science Vision</description>
 	<properties>
